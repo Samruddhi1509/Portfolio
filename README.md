@@ -12,7 +12,7 @@ This repository serves as a **central hub** to showcase my work — feel free to
 ## 📊 Data Analytics Projects
 
 🔹 **[120 Years of Olympics Dashboard](https://github.com/Samruddhi1509/Olympics-Analytics-Dashboard)**  
-*Tools: Python (Pandas : for data cleaning), Tableau *  
+*Tools: Python (Pandas : for data cleaning), Tableau*  
 - Designed an interactive dashboard utilising Olympic datasets for trends in participation and medal distribution.  
 - Identified top-performing countries and athlete participation patterns.  
 
@@ -27,7 +27,7 @@ This repository serves as a **central hub** to showcase my work — feel free to
 ---
 
 🔹 **[SFO Survey Analysis](https://github.com/Samruddhi1509/SFO-Survey-Analysis)**  
-*Tools: Python (Pandas : for data cleaning), Tableau *  
+*Tools: Python (Pandas : for data cleaning), Tableau*  
 - Designed an interactive dashboard to analyze passenger survey data.
 - Applied sentiment analysis on feedback to uncover satisfaction drivers.
 - Provided recommendations to improve services and passenger experience.
@@ -35,7 +35,7 @@ This repository serves as a **central hub** to showcase my work — feel free to
 ---
 
 🔹 **[Sweets Sales Distribution](https://github.com/Samruddhi1509/SFO-Survey-Analysis)**  
-*Tools: Python (Pandas : for data cleaning), Tableau, R *  
+*Tools: Python (Pandas : for data cleaning), Tableau, R*  
 - Analyzed sales trends and sweet popularity by region and season.
 - Integrated R with Tableau to perform regression analysis.
 - Highlighted patterns in average sales vs variability to guide demand planning.
@@ -62,7 +62,7 @@ This repository serves as a **central hub** to showcase my work — feel free to
 ---
 
 🔹 **[Job Recommendation System](https://github.com/Samruddhi1509/Job-Recommendation-System)**  
-*Tools: Python, NLP, PDF Parsing, DeepSeek API, RapidAPI*  
+*Tools: Python, NLP, PDF Parsing, DeepSeekAPI, RapidAPI*  
 - Developed a system to extract key details from user-uploaded resumes using NLP and PDF parsing.
 - Scrapes job listings from LinkedIn and matches them to users using a similarity algorithm.
 - Provides AI-powered keyword recommendations to optimize resumes and help job seekers find relevant opportunities faster.**.  
